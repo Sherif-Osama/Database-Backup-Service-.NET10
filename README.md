@@ -1,4 +1,4 @@
-# Database Backup Service (.NET 8 Worker Service)
+# Database Backup Service (.NET 10 Worker Service)
 
 A Windows Worker Service built with **.NET 10** that automatically creates scheduled backups for SQL Server databases. The service runs continuously in the background, performs backups at configurable intervals, and logs all operations using both the built-in logging system and a custom file logger.
 
